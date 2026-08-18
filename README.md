@@ -38,16 +38,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="images/playground_overview.webp" alt="Общий вид" width="100%" loading="lazy"></td>
-      <td><img src="images/playground_feature_tree.webp" alt="Дерево построения" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_overview.png" alt="Общий вид" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_feature_tree.png" alt="Дерево построения" width="100%" loading="lazy"></td>
     </tr>
     <tr>
       <td align="center"><b>Общий вид</b></td>
       <td align="center"><b>Дерево построения</b></td>
     </tr>
     <tr>
-      <td><img src="images/playground_exploded.webp" alt="Взрыв-схема" width="100%" loading="lazy"></td>
-      <td><img src="images/playground_nesting.webp" alt="Раскрой фанеры" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_exploded.png" alt="Взрыв-схема" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_nesting.png" alt="Раскрой фанеры" width="100%" loading="lazy"></td>
     </tr>
     <tr>
       <td align="center"><b>Взрыв-схема</b></td>
