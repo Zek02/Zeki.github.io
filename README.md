@@ -157,6 +157,31 @@ Developed wooden components (plywood parts for slides, stairs, platforms, and de
 Performed CNC nesting and cutting optimization for plywood sheets — achieved ~15% material savings through intelligent part arrangement
 Prepared a complete drawing package in Kompas-3D including assembly drawings, part details, welding schematics, and installation instructions
 
+**3D modeling and engineering design (SolidWorks)**
+<div align="center">
+  <h3>📸 Галерея проекта</h3>
+  <table>
+    <tr>
+      <td><img src="images/playground_overview.png" alt="Общий вид (рендер 4K)" width="100%"></td>
+      <td><img src="images/playground_feature_tree.png" alt="Дерево построений" width="100%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Общий вид (рендер 4K)</b></td>
+      <td align="center"><b>Дерево построений</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/playground_exploded.png" alt="Взрыв-схема" width="100%"></td>
+      <td><img src="images/playground_nesting.png" alt="Раскрой для ЧПУ" width="100%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Взрыв-схема</b></td>
+      <td align="center"><b>Раскрой для ЧПУ</b></td>
+    </tr>
+  </table>
+</div>
+
+*All images are optimized for fast loading (~120 KB each)*
+
 Result:
 The complex was successfully fabricated and installed in the city park. Passed all safety inspections and durability tests. Received positive feedback from both the client and the local community.
 
@@ -188,6 +213,31 @@ Calculated dynamic loads, fatigue resistance, and safety factors for all critica
 Designed the steel frame, seats, handrails, and protective guards with emphasis on child safety (no sharp edges, proper spacing, non-pinch points)
 Created detailed drawings in Kompas-3D for metal fabrication and wooden seat production
 Prepared CNC cutting files for plywood seats and decorative panels
+
+**3D modeling and engineering design (SolidWorks)**
+<div align="center">
+  <h3>📸 Галерея проекта</h3>
+  <table>
+    <tr>
+      <td><img src="images/playground_overview_3.png" alt="Общий вид карусели (рендер 4K)" width="100%"></td>
+      <td><img src="images/playground_feature_tree_3.png" alt="Дерево построений карусели" width="100%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Общий вид (рендер 4K)</b></td>
+      <td align="center"><b>Дерево построений</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/playground_exploded_3.png" alt="Взрыв-схема карусели" width="100%"></td>
+      <td><img src="images/playground_nesting_3.png" alt="Раскрой для ЧПУ" width="100%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Взрыв-схема</b></td>
+      <td align="center"><b>Раскрой для ЧПУ</b></td>
+    </tr>
+  </table>
+</div>
+
+*All images are optimized for fast loading (~120 KB each)*
 
 Result:
 The carousel was manufactured and installed on schedule. Successfully passed load testing (exceeded required safety margins by 40%). The client praised the smooth rotation mechanism and attention to safety details.
