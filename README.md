@@ -93,11 +93,11 @@
   <h3>📸 Галерея проекта</h3>
   <table>
     <tr>
-      <td><img src="images/playground_overview_3.png" alt="Общий вид карусели (рендер 4K)" width="100%"></td>
+      <td><img src="images/playground_overview_3.png" alt="Общий вид карусели (4K)" width="100%"></td>
       <td><img src="images/playground_feature_tree_3.png" alt="Дерево построений карусели" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><b>Общий вид (рендер 4K)</b></td>
+      <td align="center"><b>Общий вид (4K)</b></td>
       <td align="center"><b>Дерево построений</b></td>
     </tr>
     <tr>
@@ -159,23 +159,23 @@ Prepared a complete drawing package in Kompas-3D including assembly drawings, pa
 
 **3D modeling and engineering design (SolidWorks)**
 <div align="center">
-  <h3>📸 Галерея проекта</h3>
+  <h3>📸 **📸 Project Gallery**</h3>
   <table>
     <tr>
-      <td><img src="images/playground_overview.png" alt="Общий вид (рендер 4K)" width="100%"></td>
-      <td><img src="images/playground_feature_tree.png" alt="Дерево построений" width="100%"></td>
+      <td><img src="images/playground_overview.png" alt="Overview (4K)" width="100%"></td>
+      <td><img src="images/playground_feature_tree.png" alt="Feature Tree" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><b>Общий вид (рендер 4K)</b></td>
-      <td align="center"><b>Дерево построений</b></td>
+      <td align="center"><b>Overview (4K)</b></td>
+      <td align="center"><b>Feature Tree</b></td>
     </tr>
     <tr>
-      <td><img src="images/playground_exploded.png" alt="Взрыв-схема" width="100%"></td>
-      <td><img src="images/playground_nesting.png" alt="Раскрой для ЧПУ" width="100%"></td>
+      <td><img src="images/playground_exploded.png" alt="Exploded View" width="100%"></td>
+      <td><img src="images/playground_nesting.png" alt="CNC Nesting" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><b>Взрыв-схема</b></td>
-      <td align="center"><b>Раскрой для ЧПУ</b></td>
+      <td align="center"><b>Exploded View</b></td>
+      <td align="center"><b>CNC Nesting</b></td>
     </tr>
   </table>
 </div>
@@ -216,23 +216,23 @@ Prepared CNC cutting files for plywood seats and decorative panels
 
 **3D modeling and engineering design (SolidWorks)**
 <div align="center">
-  <h3>📸 Галерея проекта</h3>
+  <h3>📸 **📸 Project Gallery**</h3>
   <table>
     <tr>
-      <td><img src="images/playground_overview_3.png" alt="Общий вид карусели (рендер 4K)" width="100%"></td>
-      <td><img src="images/playground_feature_tree_3.png" alt="Дерево построений карусели" width="100%"></td>
+      <td><img src="images/playground_overview_3.png" alt="Overview (4K)" width="100%"></td>
+      <td><img src="images/playground_feature_tree_3.png" alt="Feature Tree" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><b>Общий вид (рендер 4K)</b></td>
-      <td align="center"><b>Дерево построений</b></td>
+      <td align="center"><b>Overview (4K)</b></td>
+      <td align="center"><b>Feature Tree</b></td>
     </tr>
     <tr>
-      <td><img src="images/playground_exploded_3.png" alt="Взрыв-схема карусели" width="100%"></td>
-      <td><img src="images/playground_nesting_3.png" alt="Раскрой для ЧПУ" width="100%"></td>
+      <td><img src="images/playground_exploded_3.png" alt="Exploded View" width="100%"></td>
+      <td><img src="images/playground_nesting_3.png" alt="CNC Nesting" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><b>Взрыв-схема</b></td>
-      <td align="center"><b>Раскрой для ЧПУ</b></td>
+      <td align="center"><b>Exploded View</b></td>
+      <td align="center"><b>CNC Nesting</b></td>
     </tr>
   </table>
 </div>
