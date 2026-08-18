@@ -37,16 +37,16 @@
   <h3>📸 Галерея проекта</h3>
   <table>
     <tr>
-      <td><img src="images/рендер_4к.png" alt="Общий вид (рендер 4K)" width="100%"></td>
-      <td><img src="images/дерево_построений.png" alt="Дерево построений" width="100%"></td>
+      <td><img src="images/playground_overview.png.png" alt="Общий вид (рендер 4K)" width="100%"></td>
+      <td><img src="images/playground_feature_tree.png" alt="Дерево построений" width="100%"></td>
     </tr>
     <tr>
       <td align="center"><b>Общий вид (рендер 4K)</b></td>
       <td align="center"><b>Дерево построений</b></td>
     </tr>
     <tr>
-      <td><img src="images/взрыв_схема.png" alt="Взрыв-схема" width="100%"></td>
-      <td><img src="images/раскрой.png" alt="Раскрой для ЧПУ" width="100%"></td>
+      <td><img src="images/playground_exploded.png" alt="Взрыв-схема" width="100%"></td>
+      <td><img src="images/images/playground_nesting.png" alt="Раскрой для ЧПУ" width="100%"></td>
     </tr>
     <tr>
       <td align="center"><b>Взрыв-схема</b></td>
