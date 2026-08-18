@@ -33,16 +33,30 @@
 - Подготовил полный пакет чертежей в Компас-3D для производства и монтажа
 
 **1. 3D-моделирование в SolidWorks**
-Общий вид комплекса (Рендер в 4к):
-![Общий вид комплекса](images/playground_overview.png)
-Дерево построения:
-![Дерево построения](images/playground_feature_tree.png)
-Взрыв-схема:
-![Взрыв-схема](images/playground_exploded.png)
+### 🎠 Игровой комплекс — галерея
 
-**2. Подготовка к производству**
-Оптимизированный раскрой фанеры для ЧПУ :
-![Раскрой фанеры](images/playground_nesting.png)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="images/playground_overview.webp" alt="Общий вид" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_feature_tree.webp" alt="Дерево построения" width="100%" loading="lazy"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Общий вид</b></td>
+      <td align="center"><b>Дерево построения</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/playground_exploded.webp" alt="Взрыв-схема" width="100%" loading="lazy"></td>
+      <td><img src="images/playground_nesting.webp" alt="Раскрой фанеры" width="100%" loading="lazy"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Взрыв-схема</b></td>
+      <td align="center"><b>Раскрой для ЧПУ</b></td>
+    </tr>
+  </table>
+</div>
+
+*Все изображения оптимизированы для быстрой загрузки (~120 КБ каждое)*
 
 **Результат:**  
 Комплекс успешно изготовлен и установлен. Прошел все проверки на безопасность. Получил положительные отзывы от заказчика.
