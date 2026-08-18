@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td><img src="images/playground_exploded.png" alt="Взрыв-схема" width="100%"></td>
-      <td><img src="images/images/playground_nesting.png" alt="Раскрой для ЧПУ" width="100%"></td>
+      <td><img src="images/playground_nesting.png" alt="Раскрой для ЧПУ" width="100%"></td>
     </tr>
     <tr>
       <td align="center"><b>Взрыв-схема</b></td>
