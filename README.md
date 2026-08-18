@@ -37,7 +37,7 @@
   <h3>📸 Галерея проекта</h3>
   <table>
     <tr>
-      <td><img src="images/playground_overview.png.png" alt="Общий вид (рендер 4K)" width="100%"></td>
+      <td><img src="images/playground_overview.png" alt="Общий вид (рендер 4K)" width="100%"></td>
       <td><img src="images/playground_feature_tree.png" alt="Дерево построений" width="100%"></td>
     </tr>
     <tr>
