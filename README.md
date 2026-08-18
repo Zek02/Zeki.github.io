@@ -159,7 +159,7 @@ Prepared a complete drawing package in Kompas-3D including assembly drawings, pa
 
 **3D modeling and engineering design (SolidWorks)**
 <div align="center">
-  <h3>📸 **📸 Project Gallery**</h3>
+  <h3>📸Project Gallery</h3>
   <table>
     <tr>
       <td><img src="images/playground_overview.png" alt="Overview (4K)" width="100%"></td>
@@ -216,7 +216,7 @@ Prepared CNC cutting files for plywood seats and decorative panels
 
 **3D modeling and engineering design (SolidWorks)**
 <div align="center">
-  <h3>📸 **📸 Project Gallery**</h3>
+  <h3>📸Project Gallery</h3>
   <table>
     <tr>
       <td><img src="images/playground_overview_3.png" alt="Overview (4K)" width="100%"></td>
